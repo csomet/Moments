@@ -1,0 +1,22 @@
+platform :ios, '8.0'
+use_frameworks!
+
+
+target 'Moments' do
+
+# Firebase
+pod 'Firebase'
+pod 'Firebase/Auth'
+pod 'Firebase/Database'
+pod 'Firebase/Storage'
+
+# Utilies
+pod 'DGActivityIndicatorView'
+pod 'SAMCache'
+pod 'VENTokenField'
+
+
+# Messenger
+pod 'JSQMessagesViewController'
+
+end
