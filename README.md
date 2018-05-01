@@ -22,6 +22,7 @@ Swift 4.0 Xcode 9.3 (9E145) *Converted from older version*
 - Show uploading time in minutes / hours / weeks?
 - Improve cache and image loading system.
 - Other minor improvements.
+- Optimize code and eliminate warnings.
 
 
 ### 📦Pods
