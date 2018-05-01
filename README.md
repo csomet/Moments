@@ -29,7 +29,6 @@ Swift 4.0 Xcode 9.3 (9E145) *Converted from older version*
 Moments uses a few cocoapods to work. These are the most relevant:
 
 - [Cocoapods Firebase](Pods/Firebase/README.md)
-- [Cocoapods SAMCache](Pods/SAMCache/README.md)
 - [Cocoapods JSQMessagesViewController](Pods/JSQMessagesViewController/README.md)
 
 
