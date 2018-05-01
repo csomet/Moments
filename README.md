@@ -1,12 +1,11 @@
 # Moments
 
-**Instagram Clone APP** using Firebase. This App is not finished yet. It's only a little project to test FB and some other pods libraries.
+**Instagram Clone APP** using Firebase. This App is not finished yet. It's only a little project to test FB and some other pods libraries. Because this app was built a long time ago, it could contains some deprecated pod libs (JSQMessagesViewController...) 
 non-commercial purpose.
 
 *Demo*
 
-<img src="Moments/login.gif?raw=true">
-<img src="Moments/comments.gif?raw=true">
+<img src="Moments/login.gif?raw=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Moments/comments.gif?raw=true">
 <img src="Moments/chat.gif?raw=true">
 
 ### 📝Specs 
