@@ -21,7 +21,7 @@ Swift 4.0 Xcode 9.3 (9E145) *Converted from older version*
 - Improve user images when login and uploading new.
 - Show uploading time in minutes / hours / weeks?
 - Improve cache and image loading system.
-- other minor improvements.
+- Other minor improvements.
 
 
 ### 📦Pods
