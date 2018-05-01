@@ -9,8 +9,8 @@
 /* Begin PBXBuildFile section */
 		044AFFB7A565FA2E8381CA5C /* Pods_Moments.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5341F2E75EB8EF6101AB81DA /* Pods_Moments.framework */; };
 		EC1C29F82098EA47008FD45C /* login.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC1C29F72098EA47008FD45C /* login.gif */; };
-		EC1C29FA2098EA4D008FD45C /* chat.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC1C29F92098EA4D008FD45C /* chat.gif */; };
-		EC1C29FC2098EA52008FD45C /* comments.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC1C29FB2098EA52008FD45C /* comments.gif */; };
+		EC1C29FE2098F2B4008FD45C /* comments.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC1C29FD2098F2B4008FD45C /* comments.gif */; };
+		EC1C2A002098F2B8008FD45C /* chat.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC1C29FF2098F2B8008FD45C /* chat.gif */; };
 		EC36AFC41EA0ECE4003E6695 /* Media.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC36AFC31EA0ECE4003E6695 /* Media.swift */; };
 		EC505BE11EC5B287004DA81C /* InboxTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC505BE01EC5B287004DA81C /* InboxTableViewController.swift */; };
 		EC54E5091EA28056006DBB7B /* DummyPostComposer.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC54E5081EA28056006DBB7B /* DummyPostComposer.swift */; };
@@ -49,8 +49,8 @@
 		8751D974B94096BF2CF8962D /* Pods-Moments.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Moments.release.xcconfig"; path = "Pods/Target Support Files/Pods-Moments/Pods-Moments.release.xcconfig"; sourceTree = "<group>"; };
 		C03751C627599BFA8BE8FDF5 /* Pods-Moments.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Moments.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Moments/Pods-Moments.debug.xcconfig"; sourceTree = "<group>"; };
 		EC1C29F72098EA47008FD45C /* login.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = login.gif; sourceTree = "<group>"; };
-		EC1C29F92098EA4D008FD45C /* chat.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = chat.gif; sourceTree = "<group>"; };
-		EC1C29FB2098EA52008FD45C /* comments.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = comments.gif; sourceTree = "<group>"; };
+		EC1C29FD2098F2B4008FD45C /* comments.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = comments.gif; sourceTree = "<group>"; };
+		EC1C29FF2098F2B8008FD45C /* chat.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = chat.gif; sourceTree = "<group>"; };
 		EC36AFC31EA0ECE4003E6695 /* Media.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Media.swift; sourceTree = "<group>"; };
 		EC505BE01EC5B287004DA81C /* InboxTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InboxTableViewController.swift; sourceTree = "<group>"; };
 		EC54E5081EA28056006DBB7B /* DummyPostComposer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DummyPostComposer.swift; sourceTree = "<group>"; };
@@ -151,8 +151,8 @@
 			isa = PBXGroup;
 			children = (
 				EC1C29F72098EA47008FD45C /* login.gif */,
-				EC1C29FB2098EA52008FD45C /* comments.gif */,
-				EC1C29F92098EA4D008FD45C /* chat.gif */,
+				EC1C29FF2098F2B8008FD45C /* chat.gif */,
+				EC1C29FD2098F2B4008FD45C /* comments.gif */,
 			);
 			name = Demo;
 			sourceTree = "<group>";
@@ -310,13 +310,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC1C29FE2098F2B4008FD45C /* comments.gif in Resources */,
 				EC9A5A6F1E9835D3008548ED /* LaunchScreen.storyboard in Resources */,
-				EC1C29FA2098EA4D008FD45C /* chat.gif in Resources */,
 				EC9A5A6C1E9835D3008548ED /* Assets.xcassets in Resources */,
 				ECE181041E9EA89B0001767F /* GoogleService-Info.plist in Resources */,
+				EC1C2A002098F2B8008FD45C /* chat.gif in Resources */,
 				ECE181021E9E9FFB0001767F /* podfile in Resources */,
 				EC1C29F82098EA47008FD45C /* login.gif in Resources */,
-				EC1C29FC2098EA52008FD45C /* comments.gif in Resources */,
 				EC9A5A6A1E9835D3008548ED /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
