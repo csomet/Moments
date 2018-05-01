@@ -5,9 +5,9 @@ non-commercial purpose.
 
 *Demo*
 
-<img src="Moments/Demo/login.gif?raw=true">
-<img src="Moments/Demo/comments.gif?raw=true">
-<img src="Moments/Demo/chat.gif?raw=true">
+<img src="Moments/login.gif?raw=true">
+<img src="Moments/comments.gif?raw=true">
+<img src="Moments/chat.gif?raw=true">
 
 ### 📝Specs 
 Swift 4.0 Xcode 9.3 (9E145) *Converted from older version*
@@ -15,9 +15,10 @@ Swift 4.0 Xcode 9.3 (9E145) *Converted from older version*
 ### 👉🏻USAGE:
 - Run pod install on workingspace.
 - Create user and log in to the app.
+- This app was written under MVC design pattern. It could not keep the MVC structure after commiting to GitHub. 
 
 
-### PENDING:
+### 🛠TO-DO:
 - Improve user images when login and uploading new.
 - Show uploading time in minutes / hours / weeks?
 - Improve cache and image loading system.
